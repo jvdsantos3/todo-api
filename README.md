@@ -18,6 +18,16 @@ git clone https://github.com/jvdsantos3/todo-api.git
 npm run dev
 ```
 
+## Changing server port
+
+In server.js on the last line change the
+
+```
+server.listen(3334)
+```
+
+put the desired port inside the parentheses.
+
 ## Routes
 
 ### List Tasks (GET)

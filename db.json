@@ -1,0 +1,12 @@
+{
+  "tasks": [
+    {
+      "id": "b0f91d0b-0d2d-4dd7-87dd-fc0df5be0deb",
+      "title": "React Native",
+      "description": "Estudar React Native",
+      "completed_at": "2023-02-05T22:02:52.492Z",
+      "created_at": "2023-02-05T22:01:31.176Z",
+      "updated_at": "2023-02-05T22:01:31.176Z"
+    }
+  ]
+}
